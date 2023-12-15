@@ -1,4 +1,4 @@
-# NNCC1177_liver_RNAseq
+# NN1177_liver_RNAseq
 
 Pre-proof:
 https://www.sciencedirect.com/science/article/pii/S2212877823001849
